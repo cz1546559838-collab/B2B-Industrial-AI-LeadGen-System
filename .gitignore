@@ -1,0 +1,60 @@
+# private and sensitive folders
+private/
+99_private_not_upload/
+
+# documents and spreadsheets
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.pdf
+
+# media and screenshots
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
+# environment and secrets
+*.env
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# Archives / compressed packages
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+
+# Backup files
+*.bak
+*.tmp
+*.old
+*.backup
+
+# system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# logs and caches
+*.log
+__pycache__/
+node_modules/
